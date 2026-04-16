@@ -1,0 +1,17 @@
+# ================================================================
+# robots.txt — Backlink GitHub : Cellulite Faciale Guide 2026
+# URL racine : https://feminin-sante.github.io/cellulite-faciale-guide-complet-2026/
+# ================================================================
+# INTÉGRATION : Placer ce fichier à la RACINE du dépôt GitHub Pages
+# (/cellulite-faciale-guide-complet-2026/robots.txt)
+# ================================================================
+
+User-agent: *
+Allow: /
+
+# Déclarer le sitemap pour indexation automatique
+Sitemap: https://feminin-sante.github.io/cellulite-faciale-guide-complet-2026/sitemap.xml
+
+# Crawl-delay optionnel pour bots moins prioritaires
+# User-agent: AhrefsBot
+# Crawl-delay: 10
